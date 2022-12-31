@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boochek.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="823" height="622"/>
+	<SubTexture name="down0001" x="823" y="0" width="823" height="622"/>
+	<SubTexture name="down0002" x="1646" y="0" width="823" height="622"/>
+	<SubTexture name="down0003" x="2469" y="0" width="823" height="622"/>
+	<SubTexture name="idle0000" x="3292" y="0" width="828" height="620"/>
+	<SubTexture name="idle0001" x="4120" y="0" width="828" height="620"/>
+	<SubTexture name="idle0002" x="4948" y="0" width="828" height="620"/>
+	<SubTexture name="idle0003" x="5776" y="0" width="828" height="620"/>
+	<SubTexture name="left0000" x="0" y="622" width="2069" height="621"/>
+	<SubTexture name="left0001" x="2069" y="622" width="2069" height="621"/>
+	<SubTexture name="left0002" x="4138" y="622" width="2069" height="621"/>
+	<SubTexture name="left0003" x="0" y="1243" width="2069" height="621"/>
+	<SubTexture name="right0000" x="2069" y="1243" width="1876" height="576"/>
+	<SubTexture name="right0001" x="3945" y="1243" width="1876" height="576"/>
+	<SubTexture name="right0002" x="5821" y="1243" width="1876" height="576"/>
+	<SubTexture name="right0003" x="0" y="1864" width="1876" height="576"/>
+	<SubTexture name="up0000" x="1876" y="1864" width="817" height="1164"/>
+	<SubTexture name="up0001" x="2693" y="1864" width="817" height="1164"/>
+	<SubTexture name="up0002" x="3510" y="1864" width="817" height="1164"/>
+	<SubTexture name="up0003" x="4327" y="1864" width="817" height="1164"/>
+</TextureAtlas>

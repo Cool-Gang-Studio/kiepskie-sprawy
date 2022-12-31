@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				78545.4545454546,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pazdzioch-sax"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pazdzioch"
+					]
+				]
+			],
+			[
+				130909.090909091,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pazdzioch-sax"
+					]
+				]
+			]
+		]
+	}
+}

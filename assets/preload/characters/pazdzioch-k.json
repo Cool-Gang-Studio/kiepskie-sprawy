@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down_"
+		},
+		{
+			"offsets": [
+				-38,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up_"
+		},
+		{
+			"offsets": [
+				-38,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right_"
+		},
+		{
+			"offsets": [
+				-38,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left_"
+		},
+		{
+			"offsets": [
+				-29,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle_"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pazdziochK",
+	"position": [
+		150,
+		50
+	],
+	"healthicon": "pazdzioch_k",
+	"flip_x": false,
+	"healthbar_colors": [
+		54,
+		87,
+		140
+	],
+	"camera_position": [
+		140,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

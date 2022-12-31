@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Training",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"weekName": "Tutorial"
+}

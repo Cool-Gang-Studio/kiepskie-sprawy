@@ -1,0 +1,113 @@
+{
+	"storyName": "",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Piwo",
+			"mocny-full",
+			[
+				181,
+				169,
+				40
+			]
+		],
+		[
+			"Corrupted File",
+			"none",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Mocny Issue",
+			"fartek",
+			[
+				242,
+				238,
+				203
+			]
+		],
+		[
+			"NJHYGG",
+			"fartek",
+			[
+				242,
+				238,
+				203
+			]
+		],
+		[
+			"OG",
+			"boczek_og",
+			[
+				231,
+				142,
+				50
+			]
+		],
+		[
+			"Welcome",
+			"ferdek",
+			[
+				112,
+				108,
+				71
+			]
+		],
+		[
+			"Korzenie",
+			"czarny_ferdek",
+			[
+				51,
+				51,
+				51
+			]
+		],
+		[
+			"Cycu Old",
+			"waldek-old",
+			[
+				176,
+				73,
+				60
+			]
+		],
+		[
+			"Prosze Wypierdzielac",
+			"ferdek",
+			[
+				112,
+				108,
+				71
+			]
+		],
+		[
+			"8-28-63",
+			"fartek-drawn",
+			[
+				145,
+				87,
+				83
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

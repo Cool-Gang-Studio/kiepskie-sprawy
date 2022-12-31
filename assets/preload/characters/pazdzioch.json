@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Marian Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-7
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Marian Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Marian Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Marian Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Marian Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Menda",
+	"position": [
+		-20,
+		60
+	],
+	"healthicon": "pazdzioch",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		168,
+		115
+	],
+	"camera_position": [
+		140,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

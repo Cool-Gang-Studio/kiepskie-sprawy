@@ -1,0 +1,50 @@
+{
+	"storyName": "Funkin' Wedlug Kiepskich 2!?",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "kibel",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Renta",
+			"babka",
+			[
+				204,
+				0,
+				153
+			]
+		],
+		[
+			"Cycu",
+			"waldek",
+			[
+				176,
+				73,
+				60
+			]
+		],
+		[
+			"Ale Jaja",
+			"edzio",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "FWK week 2",
+	"hiddenUntilUnlocked": false
+}

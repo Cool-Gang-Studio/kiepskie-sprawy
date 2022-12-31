@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				105,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				90,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				46,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				202,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boczek_OG",
+	"position": [
+		110,
+		30
+	],
+	"healthicon": "boczek_og",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		142,
+		50
+	],
+	"camera_position": [
+		-10,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				59,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				57,
+				-114
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				112,
+				-51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				40,
+				-101
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				105,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ferdek",
+	"position": [
+		380,
+		40
+	],
+	"healthicon": "ferdek",
+	"flip_x": false,
+	"healthbar_colors": [
+		112,
+		108,
+		71
+	],
+	"camera_position": [
+		-20,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

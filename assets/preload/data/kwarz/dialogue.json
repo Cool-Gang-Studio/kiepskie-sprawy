@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "https://lh4.googleusercontent.com/-brkKjqtQIk36V77YrfW0NB2DEdc4YGuudibVVqTvyCJlR0QyIkZuInvsKrX6yA1BV0dkkNOYMB_cUDDFkmt389XuRtf1iszDx-S0ohdgsX7iLzFaL7RuTyueB_8dP0EJQ=w1280",
+			"boxState": "normal",
+			"sound": "PazdziochDialog",
+			"speed": 0.00500000000000001,
+			"portrait": "poopzdzioch"
+		},
+		{
+			"expression": "shocked",
+			"text": "Ok that's it, kill yourself I will fucking kill you now.",
+			"boxState": "normal",
+			"sound": "BfDialog",
+			"speed": 0,
+			"portrait": "bf"
+		}
+	]
+}

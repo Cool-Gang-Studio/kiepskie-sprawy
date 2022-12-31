@@ -1,0 +1,50 @@
+{
+	"storyName": "Funkin' Wedlug Kiepskich",
+	"difficulties": "Easy, Normal, Hard, Kiepski",
+	"hideFreeplay": false,
+	"weekBackground": "kibel",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Full",
+			"ferdek",
+			[
+				112,
+				108,
+				71
+			]
+		],
+		[
+			"Karwasz Twarz",
+			"pazdzioch",
+			[
+				201,
+				168,
+				115
+			]
+		],
+		[
+			"Ogor",
+			"boczek",
+			[
+				231,
+				142,
+				50
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "FWK week 1",
+	"hiddenUntilUnlocked": false
+}

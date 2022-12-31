@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "BoczekDialog",
+			"speed": 0.00500000000000001,
+			"portrait": "bitchek",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "https://lh3.googleusercontent.com/yBRwn7MgyDbWw8y3h-vZOt32XSScEk8HFtUVpInDl4Gh4WaoWtjrn0zt5qGfVi5lnB2oFPfH72v6CkZLCOif69l1rXNupeSAalplOAtv2jyrE9zZMwS8YbYDLNtn-Aa1zg=w1280"
+		},
+		{
+			"sound": "BfDialog",
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I swear if one more stupid fatass comes here i will kill myself. And I hate you."
+		}
+	]
+}

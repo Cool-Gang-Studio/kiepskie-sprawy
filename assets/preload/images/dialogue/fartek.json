@@ -1,0 +1,24 @@
+{
+	"position": [
+		-20,
+		90
+	],
+	"dialogue_pos": "left",
+	"scale": 0.9,
+	"image": "fartek",
+	"animations": [
+		{
+			"idle_offsets": [
+				-31,
+				108
+			],
+			"loop_offsets": [
+				-31,
+				110
+			],
+			"anim": "talk",
+			"idle_name": "idle0012",
+			"loop_name": "idle"
+		}
+	]
+}

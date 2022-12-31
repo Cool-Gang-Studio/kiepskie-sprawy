@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-100
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				30,
+				14
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				220,
+				-337
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				331,
+				-334
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				207,
+				-319
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/poopzdzioch",
+	"position": [
+		230,
+		-90
+	],
+	"healthicon": "poopzdzioch",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		232,
+		215
+	],
+	"camera_position": [
+		-130,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

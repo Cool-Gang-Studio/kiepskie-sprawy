@@ -1,0 +1,50 @@
+{
+	"storyName": "Insert text here",
+	"difficulties": "Hard, Kiepski",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Kwarz",
+			"poopzdzioch",
+			[
+				241,
+				232,
+				215
+			]
+		],
+		[
+			"Kielbasa",
+			"boochek",
+			[
+				203,
+				203,
+				163
+			]
+		],
+		[
+			"DJFUYG",
+			"fartek",
+			[
+				242,
+				238,
+				203
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Insert week name here",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "FerdekDialog",
+			"speed": 0.00500000000000001,
+			"portrait": "fartek",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "https://lh3.googleusercontent.com/hwB9FPP--pV0ncf9h2rRImHuf7n3wGTO0a-p8pQqyrkrvMkOhB5HMf0S3855Itx3013i2LC_XZE8UyGqBHB00NRASMuTiyR5ZbBq0YSM6YSmnmg53tG2CXaPVS0b4TR3=w1280"
+		},
+		{
+			"sound": "BfDialog",
+			"speed": 0,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "What in the ass is wrong with you peoples..."
+		}
+	]
+}

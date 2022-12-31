@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		30,
+		-10
+	],
+	"scale": 0.8,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-31,
+				110
+			],
+			"idle_offsets": [
+				-31,
+				108
+			],
+			"loop_name": "idle",
+			"idle_name": "idle0012"
+		}
+	],
+	"image": "poopzdzioch"
+}

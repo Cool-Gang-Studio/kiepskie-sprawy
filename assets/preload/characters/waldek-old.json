@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/waldek",
+	"position": [
+		220,
+		40
+	],
+	"healthicon": "waldek-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		176,
+		73,
+		60
+	],
+	"camera_position": [
+		10,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

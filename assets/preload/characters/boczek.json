@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "I"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "L"
+		},
+		{
+			"offsets": [
+				0,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "D"
+		},
+		{
+			"offsets": [
+				-30,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "U"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "R"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boczek",
+	"position": [
+		100,
+		0
+	],
+	"healthicon": "boczek",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		142,
+		50
+	],
+	"camera_position": [
+		50,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

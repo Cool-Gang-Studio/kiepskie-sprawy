@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-100
+			],
+			"indices": [
+				4
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				48,
+				16
+			],
+			"indices": [
+				2
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				7,
+				-108
+			],
+			"indices": [
+				2
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				100,
+				-131
+			],
+			"indices": [
+				2
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				421,
+				-205
+			],
+			"indices": [
+				2
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fartek",
+	"position": [
+		110,
+		30
+	],
+	"healthicon": "fartek",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		238,
+		203
+	],
+	"camera_position": [
+		220,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

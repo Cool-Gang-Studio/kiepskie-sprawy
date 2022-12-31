@@ -1,0 +1,9 @@
+function onStartCountdown()
+    debugPrint("Piwko"); 
+end
+
+function onPause()
+    debugPrint("THERE IS NEVER ANY ESCAPE! THERE IS NEVER ANY ESCAPE! THERE IS NEVER ANY ESCAPE! THERE IS NEVER ANY ESCAPE! THERE IS NEVER ANY ESCAPE! THERE IS NEVER ANY ESCAPE! THERE IS NEVER ANY ESCAPE! THERE IS NEVER ANY ESCAPE! THERE IS NEVER ANY ESCAPE!"); 
+    playSound("1");
+	return Function_Stop;
+end

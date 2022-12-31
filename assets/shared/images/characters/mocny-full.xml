@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mocny-full.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="55" height="111"/>
+	<SubTexture name="down0001" x="55" y="0" width="55" height="111"/>
+	<SubTexture name="down0002" x="110" y="0" width="55" height="111"/>
+	<SubTexture name="down0003" x="165" y="0" width="55" height="111"/>
+	<SubTexture name="down0004" x="220" y="0" width="55" height="111"/>
+	<SubTexture name="idle0000" x="275" y="0" width="55" height="111"/>
+	<SubTexture name="idle0001" x="330" y="0" width="55" height="111"/>
+	<SubTexture name="idle0002" x="385" y="0" width="55" height="111"/>
+	<SubTexture name="idle0003" x="440" y="0" width="55" height="111"/>
+	<SubTexture name="idle0004" x="0" y="111" width="55" height="111"/>
+	<SubTexture name="left0000" x="55" y="111" width="63" height="111"/>
+	<SubTexture name="left0001" x="118" y="111" width="63" height="111"/>
+	<SubTexture name="left0002" x="181" y="111" width="63" height="111"/>
+	<SubTexture name="left0003" x="244" y="111" width="63" height="111"/>
+	<SubTexture name="left0004" x="307" y="111" width="63" height="111"/>
+	<SubTexture name="right0000" x="370" y="111" width="118" height="123"/>
+	<SubTexture name="right0001" x="0" y="234" width="118" height="123"/>
+	<SubTexture name="right0002" x="118" y="234" width="118" height="123"/>
+	<SubTexture name="right0003" x="236" y="234" width="118" height="123"/>
+	<SubTexture name="right0004" x="354" y="234" width="118" height="123"/>
+	<SubTexture name="up0000" x="0" y="357" width="55" height="122"/>
+	<SubTexture name="up0001" x="55" y="357" width="55" height="122"/>
+	<SubTexture name="up0002" x="110" y="357" width="55" height="122"/>
+	<SubTexture name="up0003" x="165" y="357" width="55" height="122"/>
+	<SubTexture name="up0004" x="220" y="357" width="55" height="122"/>
+</TextureAtlas>
